@@ -13,3 +13,6 @@ for linux
 then navigate to  
 ```http://localhost:8080``` 
 
+in order to execute test suite run  
+```mvnw test```
+
